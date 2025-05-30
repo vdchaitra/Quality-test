@@ -5,8 +5,8 @@ This is a Quality Testing Frontend built using React.js, designed to streamline 
 
 🔐 Login Credentials
 
-**Role	                        Username	             Password
-**
+**Role	                        Username	             Password**
+
 Inspector	                    inspector1	           pass123
 
 Validator	                    validator1	           val123
