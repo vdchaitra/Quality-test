@@ -4,9 +4,9 @@ This is a Quality Testing Frontend built using React.js, designed to streamline 
 🌟 Hosted Link: https://quality-test-theta.vercel.app/
 
 🔐 Login Credentials
-Role	Username	Password
-Inspector	inspector1	pass123
-Validator	validator1	val123
+Role	                        Username	             Password
+Inspector	                    inspector1	           pass123
+Validator	                    validator1	           val123
 
 🛠️ Features
 ✅ Role-based login system
