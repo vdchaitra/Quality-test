@@ -1,0 +1,33 @@
+.history-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .history-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .inspection-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .inspection-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .inspection-response {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .inspection-response p {
+    margin: 5px 0;
+  }
+  

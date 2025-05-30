@@ -1,0 +1,99 @@
+/* Container centers the card */
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f2f4f7;
+    padding: 20px;
+  }
+  
+  /* Card styles */
+  .home-box {
+    background-color: #ffffff;
+    padding: 40px 30px;
+    width: 100%;
+    max-width: 420px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+  }
+  
+  /* Heading */
+  .home-heading {
+    font-size: 26px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 8px;
+  }
+  
+  /* Username highlight */
+  .username {
+    color: #1d4ed8;
+  }
+  
+  /* Role text */
+  .role {
+    font-size: 15px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  /* Button base */
+  .home-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px 0;
+    margin-bottom: 16px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  /* Hover effect */
+  .home-button:hover {
+    transform: translateY(-2px);
+  }
+  
+  /* Color variations */
+  .home-button.blue {
+    background-color: #007bff;
+  }
+  
+  .home-button.purple {
+    background-color: #6f42c1;
+  }
+  
+  .home-button.red {
+    background-color: #dc3545;
+  }
+  
+  .home-button.green {
+    background-color: #28a745;
+  }
+  
+  /* Hover color variations */
+  .home-button.blue:hover {
+    background-color: #0069d9;
+  }
+  
+  .home-button.purple:hover {
+    background-color: #5936a6;
+  }
+  
+  .home-button.red:hover {
+    background-color: #c82333;
+  }
+  
+  .home-button.green:hover {
+    background-color: #218838;
+  }
+  
